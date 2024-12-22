@@ -1,0 +1,12 @@
+[
+    {
+        "title": "New Message",
+        "body": "You have a new message from John.",
+        "icon": "https://example.com/icon1.png"
+    },
+    {
+        "title": "Reminder",
+        "body": "Don't forget your meeting at 3 PM.",
+        "icon": "https://example.com/icon2.png"
+    }
+]
